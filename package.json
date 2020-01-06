@@ -13,5 +13,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "## Overview",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harrison-Hughes/react-information-flow-code-along-london-web-102819.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harrison-Hughes/react-information-flow-code-along-london-web-102819/issues"
+  },
+  "homepage": "https://github.com/Harrison-Hughes/react-information-flow-code-along-london-web-102819#readme"
 }
